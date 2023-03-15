@@ -1,0 +1,32 @@
+﻿1,Andrei Micu,Scoala Gimnaziala “Horea”
+2,Bianca Avram,Scoala Gimnaziala “Horea”
+3,Claudiu Nicolescu,Scoala Gimnaziala “Horea”
+4,Stefan Pop,Scoala Gimnaziala “Horea”
+5,elev5,Scoala Gimnaziala “Horea”
+6,elev6,Scoala Gimnaziala “Horea”
+7,elev7,Scoala Gimnaziala “Horea”
+8,elev8,Scoala Gimnaziala “Horea”
+9,elev9,Scoala Gimnaziala “Horea”
+10,elev10,Scoala Gimnaziala “Horea”
+11,elev11,Scoala Gimnaziala “Horea”
+12,elev12,Scoala Gimnaziala “Horea”
+13,elev13,Scoala Gimnaziala “Horea”
+14,elev14,Scoala Gimnaziala “Horea”
+15,elev15,Scoala Gimnaziala “Horea”
+16,elev16,Scoala Gimnaziala "Octavian Goga"
+17,elev17,Scoala Gimnaziala "Octavian Goga"
+18,elev18,Scoala Gimnaziala "Octavian Goga"
+19,elev19,Scoala Gimnaziala "Octavian Goga"
+20,elev20,Scoala Gimnaziala "Octavian Goga"
+21,elev21,Scoala Gimnaziala "Octavian Goga"
+22,elev22,Scoala Gimnaziala "Octavian Goga"
+23,elev23,Scoala Gimnaziala "Octavian Goga"
+24,elev24,Scoala Gimnaziala "Octavian Goga"
+25,elev25,Scoala Gimnaziala "Octavian Goga"
+26,elev26,Scoala Gimnaziala "Octavian Goga"
+27,elev27,Scoala Gimnaziala "Octavian Goga"
+28,elev28,Scoala Gimnaziala "Octavian Goga"
+29,elev29,Scoala Gimnaziala "Octavian Goga"
+30,elev30,Scoala Gimnaziala "Octavian Goga"
+31,elev31,Scoala Gimnaziala "Octavian Goga"
+32,elev32,Scoala Gimnaziala "Octavian Goga"

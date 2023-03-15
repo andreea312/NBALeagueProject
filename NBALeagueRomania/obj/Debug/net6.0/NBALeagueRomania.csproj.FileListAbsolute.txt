@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\bin\Debug\net6.0\NBALeagueRomania.exe
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\bin\Debug\net6.0\NBALeagueRomania.deps.json
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\bin\Debug\net6.0\NBALeagueRomania.runtimeconfig.json
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\bin\Debug\net6.0\NBALeagueRomania.dll
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\bin\Debug\net6.0\NBALeagueRomania.pdb
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\obj\Debug\net6.0\NBALeagueRomania.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\obj\Debug\net6.0\NBALeagueRomania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\obj\Debug\net6.0\NBALeagueRomania.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\obj\Debug\net6.0\NBALeagueRomania.AssemblyInfo.cs
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\obj\Debug\net6.0\NBALeagueRomania.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\obj\Debug\net6.0\NBALeagueRomania.dll
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\obj\Debug\net6.0\refint\NBALeagueRomania.dll
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\obj\Debug\net6.0\NBALeagueRomania.pdb
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\obj\Debug\net6.0\NBALeagueRomania.genruntimeconfig.cache
+C:\Users\andre\source\repos\NBALeagueRomania\NBALeagueRomania\obj\Debug\net6.0\ref\NBALeagueRomania.dll
